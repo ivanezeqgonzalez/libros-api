@@ -1,0 +1,29 @@
+{
+  "libros": [
+    {
+      "id": 2,
+      "nombre": "Aprendiendo React",
+      "precio": "70"
+    },
+    {
+      "id": 3,
+      "nombre": "Buenas practicas js",
+      "precio": "150"
+    },
+    {
+      "id": 4,
+      "nombre": "Hooks",
+      "precio": "125"
+    },
+    {
+      "id": 6,
+      "nombre": "React",
+      "precio": "70"
+    },
+    {
+      "id": 7,
+      "nombre": "React Y Store",
+      "precio": "132"
+    }
+  ]
+}
